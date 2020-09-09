@@ -1,0 +1,31 @@
+body
+{
+    text-align: center;
+    background-color: #444;
+    color: #eee;
+}
+
+#container
+{
+    display:inline-block;
+    margin: 0 auto;
+    width: 70%;
+    
+}
+
+.box
+{
+    display:inline-block;
+    margin: 0 auto;
+    padding: 8px;
+    font-size: 20px;
+    background-color: #366;
+    height: 200px;
+    width: 323px;
+}
+
+button
+{
+    padding:4px;
+    margin: 10px;
+}
